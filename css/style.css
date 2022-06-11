@@ -233,8 +233,8 @@ button {
     width: 100%;
     height: auto;
     min-height: 650px;
-    /* background-image: url('../images/bg-image.jpg'); */
-    background-image: url('../images/img44.jpeg');
+    background-image: url('../images/bg-image.jpg');
+    /* background-image: url('../images/img44.jpeg'); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
